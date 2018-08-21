@@ -1,0 +1,38 @@
+1) Serve para colocar um campo e entrada de dados, por exemplo, um formulário.
+
+2) radio, checkbox, combobox, submit, text, password, date.
+
+3) É um bloco de comandos onde eu posso chamalos em diversos lugares do códigos para não precisar repetir linhas de códigos, eu decido quando ela é chamada.
+
+4) É a página principal de uma plataforna na web, ela será a primeira executando quando inicia-se o arquivo. Caso o 'dominador' não ache esse arquivo (index.php/ index.html) a página não será carregada.
+
+5) Os arquivos .PHP devem ser salva no servidor para que o cliente não possa ver seus códigos.
+
+6) GET e o POST
+
+7) Pela a função $_GET (para o GET) e o $_POST(para o POST).
+
+8) Será a ação executada quando a função for chamada, por exemplo, abrir
+ outro arquivo ou chamar outro bloco de códigos.
+9) Usando o argumento Action
+	Ex <input type"text" method="POST" name="nome" 	action="contatos.php">
+
+10) Várias variáveis pré-definidas no PHP são "superglobais", que significa que elas estão disponível em todos escopos para todo o script. Não há necessidade de fazer global $variable; para acessá-lo dentro de funções ou métodos. Elas são importantes para a recuperação de dados e variáveis.
+
+11)     $qtde_lista = $_POST[‘ tx_nome’];
+	&lt;?php echo $_SERVER[‘PHP_SELF’];?&gt;
+12) Permite que eu pegue o valor atribuido ao input.
+
+13 É um laço de repetição para interações em arrays, é um for de forma simplificado, ele decompõe o
+vetor ou matriz em cada um de seus elementos por meio da cláusula AS.
+	Ex: foreach($arquvio as $dados){
+		echo 'Olá mundo';
+	}
+
+14) 
+
+15)
+15.1) Código no gitHub
+15.2) É uma linguagem muito complexa, cheia de detalhes minuciosos que fazem toda a diferença, porém é muito boa de aprender e requer muita paciência.
+
+
